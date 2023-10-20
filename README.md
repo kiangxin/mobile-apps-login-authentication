@@ -1,2 +1,2 @@
 # mobile-apps-login-authentication
-Git repositry of my FYP project of Mobile Apps Login Authentication
+This is my FYP project which include OTP,Face Recognition and Active Liveness Detection to secure the login authentication
